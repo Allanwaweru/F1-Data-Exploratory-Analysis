@@ -3,6 +3,7 @@ Explanatory data analysis of Formula 1's Lewis Hamilton and Max Verstapenn at th
 ## Objective 
 Use F1 data from Abu Dhabi Grand Prix to analyze with python
 
+I decided to write the analysis as my first article on Medium 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@allan.n.waweru/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@allan.n.waweru/0"> 
   
 <br/> 
