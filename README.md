@@ -1,5 +1,5 @@
 # F1-Data-Exploratory-Analysis
-Explanatory data analysis of Formula 1's Lewis Hamilton and Max Verstapenn at the 2021 season finale in Abu Dhabi
+Explanatory data analysis of Formula 1's Lewis Hamilton and Max Verstapen at the 2021 season finale in Abu Dhabi
 ## Objective 
 Use F1 data from Abu Dhabi Grand Prix to analyze with python
 <br/> 
